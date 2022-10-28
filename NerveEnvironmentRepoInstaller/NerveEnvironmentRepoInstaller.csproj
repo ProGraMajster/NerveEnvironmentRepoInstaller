@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Libs\" />
-    <Folder Include="RuntimeModule\" />
+    <Folder Include="Libs\**" />
+    <Folder Include="RuntimeModule\**" />
   </ItemGroup>
 
 </Project>
