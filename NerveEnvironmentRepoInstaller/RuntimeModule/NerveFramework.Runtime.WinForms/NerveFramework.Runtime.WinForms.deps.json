@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NerveFramework.Runtime.WinForms/1.0.0": {
+        "dependencies": {
+          "NerveFramework.Runtime.WinForms.Interface": "1.0.0",
+          "NerveFramework.Communication": "1.0.0.0",
+          "NerveFramework.Memory": "1.0.0.0",
+          "NerveFramework.WinForms": "1.0.0.0"
+        },
+        "runtime": {
+          "NerveFramework.Runtime.WinForms.dll": {}
+        }
+      },
+      "NerveFramework.Runtime.WinForms.Interface/1.0.0": {
+        "runtime": {
+          "NerveFramework.Runtime.WinForms.Interface.dll": {}
+        }
+      },
+      "NerveFramework.Communication/1.0.0.0": {
+        "runtime": {
+          "NerveFramework.Communication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NerveFramework.Memory/1.0.0.0": {
+        "runtime": {
+          "NerveFramework.Memory.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NerveFramework.WinForms/1.0.0.0": {
+        "runtime": {
+          "NerveFramework.WinForms.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NerveFramework.Windows/1.0.0.0": {
+        "runtime": {
+          "NerveFramework.Windows.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NerveFramework.Runtime.WinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NerveFramework.Runtime.WinForms.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NerveFramework.Communication/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NerveFramework.Memory/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NerveFramework.WinForms/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NerveFramework.Windows/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
